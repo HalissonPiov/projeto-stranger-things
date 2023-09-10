@@ -1,4 +1,13 @@
+<p align="center">
+  <img alt="Capa Projeto Carrossel - Stranger Things" src="src/imagens/capa-projeto-carrossel.png" width="100%">
+</p>
 
+## 🖥 Projeto
+
+Esse é um projeto web responsivo de um carrossel manual, permitindo transitar entre imagens a partir de botões
+- Foi desenvolvido durante um evento on-line realizado pelo canal do YouTube Dev em Dobro, focado em desenvolvimento Web
+- Foram 3 aulas teóricas, abordando sobre mercado de trabalho, planejamento e características da área
+- E foram 3 lives para o desenvolvimento do projeto, instruindo acerca de cada elemento e propriedade aplicados
 
 ## 🖥 Projeto
 
